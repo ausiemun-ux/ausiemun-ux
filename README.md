@@ -2,7 +2,7 @@
 
 <# 👋 About Me
 
-🔭 I'm currently working on: my MS in Business Analytics at Drexel University, while working as a Business Analyst/PMO Intern at Intrastack Solutions — supporting analytical and PMO operations across AWS, Azure, and GCP client engagements for a cloud consulting partner delivering data-driven and AI/ML-enabled solutions.
+🔭 I'm currently working on my MS in Business Analytics at Drexel University, working as a Business Analyst/PMO Intern at Intrastack Solutions during my summer internship — I supported analytical and PMO operations across AWS, Azure, and GCP client engagements for a cloud consulting partner delivering data-driven and AI/ML-enabled solutions.
 
 🌱 I'm currently learning: Power BI/DAX toward the PL-300 certification, plus progressively advanced SQL — moving into CTEs and window functions next.
 
